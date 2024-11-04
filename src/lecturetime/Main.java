@@ -1,4 +1,4 @@
-package company;
+package lecturetime;
 
 public class Main{
  public static void main(String[] args){

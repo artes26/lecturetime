@@ -1,4 +1,4 @@
-package company;
+package lecturetime;
 
 public class cwh_9_oppretors {
     public static void main(String[] args) {

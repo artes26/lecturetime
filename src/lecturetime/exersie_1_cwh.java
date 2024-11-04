@@ -1,7 +1,7 @@
 //  Q -  WRITE  PROGRAM TO CALCULATE PERCENTAGE OF 5 SUBJECT
 //       TAKEN AS INPUT FROM KEYWORD/USER
 
-package company;
+package lecturetime;
 
 import java.util.Scanner;
 

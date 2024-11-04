@@ -1,4 +1,4 @@
-package company;
+package lecturetime;
 
 import javax.swing.*;
 
